@@ -1,6 +1,6 @@
-i, I'm Zonara Haroon 👋
+Hi, I'm Zonara Haroon 👋
 
-Senior Software Engineer · Full Stack — React Native · React JS · Node.js / Express · MongoDB
+Principal Software Engineer · Full Stack — React Native · React JS · Node.js / Express · MongoDB
 
 I'm a Senior Mobile Application Engineer with 6+ years of experience building scalable, high-performance apps across EdTech, Healthcare, Fintech, and E-Commerce. My primary stack is React Native, and I also build complete web applications end-to-end — frontend in React JS, backend in Node.js + Express, with MongoDB for data.
 
@@ -8,7 +8,6 @@ I own the full product lifecycle — requirement discovery, backlog grooming, sp
 
 
 🚀 What I do
-
 
 📱 Mobile App Development — end-to-end React Native apps for iOS and Android, from architecture to pixel-perfect UI, state management, and offline support
 🌐 Frontend Web Development — responsive React JS interfaces styled with Tailwind, Chakra UI, Bootstrap, or Material UI
