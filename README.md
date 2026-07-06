@@ -80,7 +80,7 @@ I actively use AI-assisted development tools — **Claude, Cursor, Kiro** — to
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,firebase,html,css,tailwind,git,github,bitbucket,jira,figma,androidstudio,postman" />
 </p>
 
-**Domains:** E-Commerce · EdTech · Healthcare · Fintech · Logistics · Multiplayer · Messaging · Task Management
+**Domains:** EdTech · Healthcare · E-Commerce · Fintech · Logistics · Multiplayer · real-time Chat Messaging · Task Management
 
 ---
 
