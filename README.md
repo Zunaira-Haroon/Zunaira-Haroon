@@ -55,7 +55,7 @@ I actively use AI-assisted development tools — **Claude, Cursor, Kiro** — to
 
 - **Arvo by Punjab Group** — Senior Software Engineer · *09/2023 – Present*
 - **FineAd** — Software Consultant & Engineer · *07/2025 – Present*
-- **Client Project (Contract)** — Senior Software Engineer (Part-Time) · *06/2025 – 02/2026*
+- **Client Project (Contract)** — Software Engineering Consultant (Contract) · *06/2025 – 02/2026*
 - **Dream Warrior Group** — Senior Software Engineer (Part-Time) · *06/2024 – 12/2024*
 - **Geeky Bugs** — Associate Software Engineer · *11/2022 – 06/2023*
 - **Samaritan Technology** — Associate Software Developer · *12/2021 – 10/2022*
